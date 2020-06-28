@@ -22,7 +22,6 @@ wire [63:0] result1;
 wire [63:0] result2;
 wire [63:0] readdatadm;
 wire [63:0] add_out;
-wire [1:0] Branchcontrol;
 wire final;
 wire zero;
 wire bgt;
