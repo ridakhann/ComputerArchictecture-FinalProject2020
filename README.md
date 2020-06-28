@@ -12,3 +12,7 @@ d) Hazard detection is working fine in the pipelined processor. *False*
 e) Stall circuitry is working fine in the pipelined processor. *False*
 
 f) Pipelined processor is correctly executing bubble sort algorithm. *False*
+
+
+## project video:
+.zip file named final_project has project's explanatory video
